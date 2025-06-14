@@ -83,3 +83,17 @@ Relational integrity is maintained with foreign key constraints across all relev
    ```bash
    psql -U youruser -d yourdb -f queries.sql
 
+📊 ER Diagram
+
+![ERD](/ERD-University-Management-DB.png)
+
+
+🧪 Use Cases
+📘 Academic Research: Showcase normalization, constraints, analytics
+
+🧑‍🏫 Teaching Tool: Teach students about relational design and SQL joins
+
+⚙️ Backend Integration: Can be integrated with a front-end app or API
+
+
+
