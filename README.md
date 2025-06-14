@@ -56,7 +56,6 @@ Relational integrity is maintained with foreign key constraints across all relev
 - 🧾 Professor teaching hours per week  
 - 🧑‍🎓 Ranking students using window functions
 
-> 👉 View [queries.sql](queries.sql) for full list.
 
 ---
 
