@@ -9,7 +9,6 @@ INSERT INTO students (first_name, last_name, gender, date_of_birth, email, phone
 ('Mehwish', 'Rana', 'Female', '2004-08-14', 'mehwish.rana@example.com', '0302-3344556', 'Iqbal Town, Lahore', 2023, 2),
 ('Taha', 'Mirza', 'Male', '2003-02-28', 'taha.mirza@example.com', '0344-6677889', 'Defence, Karachi', 2020, 4),
 ('Nida', 'Hassan', 'Female', '2002-05-05', 'nida.hassan@example.com', '0331-4455667', 'University Road, Faisalabad', 2021, 2),
-
 ('Fahad', 'Rizvi', 'Male', '2004-03-12', 'fahad.rizvi@example.com', '0313-2233445', 'Cantt, Peshawar', 2022, 1),
 ('Kiran', 'Malik', 'Female', '2003-10-20', 'kiran.malik@example.com', '0307-1233214', 'Johar Town, Lahore', 2021, 2),
 ('Danish', 'Rehman', 'Male', '2002-12-01', 'danish.rehman@example.com', '0322-9988776', 'Clifton, Karachi', 2020, 3),
@@ -20,7 +19,6 @@ INSERT INTO students (first_name, last_name, gender, date_of_birth, email, phone
 ('Maha', 'Ali', 'Female', '2004-09-11', 'maha.ali@example.com', '0336-1236789', 'Allama Iqbal Town, Lahore', 2023, 2),
 ('Hamza', 'Siddiqui', 'Male', '2003-03-03', 'hamza.siddiqui@example.com', '0314-6677553', 'Wapda Town, Lahore', 2021, 2),
 ('Noor', 'Shahid', 'Female', '2002-08-09', 'noor.shahid@example.com', '0304-4455998', 'Askari 10, Lahore', 2020, 1),
-
 ('Shoaib', 'Farooq', 'Male', '2004-02-18', 'shoaib.farooq@example.com', '0341-8899771', 'Phase 6 DHA, Karachi', 2022, 3),
 ('Huma', 'Khalid', 'Female', '2003-12-15', 'huma.khalid@example.com', '0339-1112223', 'F-6, Islamabad', 2023, 2),
 ('Noman', 'Shahbaz', 'Male', '2002-10-08', 'noman.shahbaz@example.com', '0325-8881110', 'Shah Faisal Colony, Karachi', 2020, 4),
@@ -31,7 +29,6 @@ INSERT INTO students (first_name, last_name, gender, date_of_birth, email, phone
 ('Iqra', 'Nadeem', 'Female', '2004-01-03', 'iqra.nadeem@example.com', '0337-9991112', 'Samanabad, Lahore', 2022, 1),
 ('Raza', 'Haroon', 'Male', '2002-03-22', 'raza.haroon@example.com', '0326-3344556', 'Hayatabad, Peshawar', 2021, 2),
 ('Aiman', 'Tariq', 'Female', '2003-04-16', 'aiman.tariq@example.com', '0306-6677885', 'Phase 8 DHA, Lahore', 2020, 1),
-
 ('Junaid', 'Akram', 'Male', '2004-07-14', 'junaid.akram@example.com', '0316-8899001', 'Askari 11, Lahore', 2022, 2),
 ('Nimra', 'Asif', 'Female', '2003-02-07', 'nimra.asif@example.com', '0342-5566774', 'F-8, Islamabad', 2021, 1),
 ('Shahzaib', 'Ali', 'Male', '2002-12-30', 'shahzaib.ali@example.com', '0338-4433221', 'Garden East, Karachi', 2020, 3),
@@ -42,7 +39,6 @@ INSERT INTO students (first_name, last_name, gender, date_of_birth, email, phone
 ('Zoya', 'Rashid', 'Female', '2003-03-14', 'zoya.rashid@example.com', '0332-9988770', 'Askari 5, Karachi', 2021, 2),
 ('Imran', 'Arif', 'Male', '2002-10-05', 'imran.arif@example.com', '0320-1234560', 'Satellite Town, Gujranwala', 2020, 4),
 ('Anum', 'Riaz', 'Female', '2003-07-28', 'anum.riaz@example.com', '0300-4455662', 'Cantt, Multan', 2022, 2),
-
 ('Mubashir', 'Kamal', 'Male', '2004-09-13', 'mubashir.kamal@example.com', '0343-6655887', 'Gulistan-e-Johar, Karachi', 2023, 3),
 ('Hania', 'Saleem', 'Female', '2002-11-08', 'hania.saleem@example.com', '0309-8877665', 'Model Town, Sialkot', 2020, 1),
 ('Rehan', 'Waqar', 'Male', '2003-06-04', 'rehan.waqar@example.com', '0335-4433556', 'Gulshan Iqbal, Karachi', 2021, 3),
