@@ -74,3 +74,13 @@ Relational integrity is maintained with foreign key constraints across all relev
    ```bash
    git clone https://github.com/yourusername/university-db.git
    cd university-db
+2. **Run the SQL Schema**
+   ```bash
+   psql -U youruser -d yourdb -f schema.sql
+3. **Insert Sample Data**
+   ```bash
+   psql -U youruser -d yourdb -f sample_data.sql
+4. **Test with Queries**
+   ```bash
+   psql -U youruser -d yourdb -f queries.sql
+
