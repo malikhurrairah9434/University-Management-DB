@@ -88,12 +88,12 @@ Relational integrity is maintained with foreign key constraints across all relev
 ![ERD](/ERD-University-Management-DB.png)
 
 
-🧪 Use Cases
-📘 Academic Research: Showcase normalization, constraints, analytics
+## 🧪 Use Cases
+- 📘 Academic Research: Showcase normalization, constraints, analytics
 
-🧑‍🏫 Teaching Tool: Teach students about relational design and SQL joins
+- 🧑‍🏫 Teaching Tool: Teach students about relational design and SQL joins
 
-⚙️ Backend Integration: Can be integrated with a front-end app or API
+- ⚙️ Backend Integration: Can be integrated with a front-end app or API
 
 
 
