@@ -95,5 +95,9 @@ Relational integrity is maintained with foreign key constraints across all relev
 
 - ⚙️ Backend Integration: Can be integrated with a front-end app or API
 
+## ✍️ Author
+- Malik Hurrairah Yousaf
+- Dated: 13th June 2025
+
 
 
